@@ -19,6 +19,12 @@ h1 {
   color: #444;
 }
 
+h2 {
+  font-size: 36px;
+  font-weight: normal;
+  color: #444;
+}
+
 .date {
   font-size: 16px;
   color: #555;
